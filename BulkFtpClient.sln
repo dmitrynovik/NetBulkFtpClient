@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkFtpClient", "BulkFtpClient\BulkFtpClient.csproj", "{CF000FBC-97FE-47D8-A3E2-08DACB40313E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkFtpClient.IntegTest", "BulkFtpClient.IntegTest\BulkFtpClient.IntegTest.csproj", "{2DDB7AE8-9A66-44CC-954C-59D1B7027C13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF000FBC-97FE-47D8-A3E2-08DACB40313E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF000FBC-97FE-47D8-A3E2-08DACB40313E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF000FBC-97FE-47D8-A3E2-08DACB40313E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDB7AE8-9A66-44CC-954C-59D1B7027C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDB7AE8-9A66-44CC-954C-59D1B7027C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDB7AE8-9A66-44CC-954C-59D1B7027C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDB7AE8-9A66-44CC-954C-59D1B7027C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
